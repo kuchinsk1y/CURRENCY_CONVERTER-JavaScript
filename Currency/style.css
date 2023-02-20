@@ -1,0 +1,30 @@
+body {
+  background-image: url(./img/elektrik-dizajn.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Noto Sans", sans-serif;
+  color: aliceblue;
+}
+
+.container {
+  margin-top: 250px;
+  margin-left: 500px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+.container__blocks {
+  margin-top: 20px;
+}
+
+label {
+    margin-right: 15px;
+}
+
+.result {
+    margin-top: 20px;
+    margin-left: 100px;
+}
